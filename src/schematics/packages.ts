@@ -30,6 +30,9 @@ export const packages: {
     '@adonisjs/shield': {
       version: '^7.0.0',
     },
+    '@symfony/webpack-encore': {
+      version: '^3.1.0',
+    },
   },
   api: {
     '@adonisjs/core': {
